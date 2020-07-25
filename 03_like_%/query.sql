@@ -1,0 +1,1 @@
+SELECT * FROM member WHERE address LIKE '%고양시%';

@@ -1,0 +1,1 @@
+SELECT * FROM member WHERE email = 'taehos@hanmail.net';
